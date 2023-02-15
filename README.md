@@ -1,32 +1,35 @@
-# NEOZONES GAMES INTEREST LIST
+```
+Gayness is key
+
+NEOZONES GAMES INTEREST LIST
 https://discord.com/invite/WSG8e58
 
 (ctrl+f downwards for steam profiles)
 
-## HOW THIS WORKS
+HOW THIS WORKS
 
-For a given game you're interested in playing, find (ctrl+f useful) the title of the game or make a new title, and then put your name under it if you own it. This is specifically for multiplayer games: singleplayer games don't have any need for documenting who owns it.
+    For a given game you're interested in playing, find (ctrl+f useful) the title of the game or make a new title, and then put your name under it if you own it. This is specifically for multiplayer games: singleplayer games don't have any need for documenting who owns it.
 
 
-### 100% Orange Juice!
+100% Orange Juice!
 https://store.steampowered.com/app/282800
 - a
 - alph
 - Varia
 
-### Age of Empires II: Definitive Edition
+Age of Empires II: Definitive Edition
 https://store.steampowered.com/app/813780
 - alph
 - Varia
 - Cathy
 
-### Bitfighter
+Bitfighter
 
-http://www.bitfighter.org
+    http://www.bitfighter.org
 
 - numbers
 
-### Bloons TD 6 (Windows only)
+Bloons TD 6 (Windows only)
 https://store.steampowered.com/app/960090
 - alph
 - Cass
@@ -34,63 +37,63 @@ https://store.steampowered.com/app/960090
 - Robin
 - Varia
 
-### Deus Ex: Game of the Year Edition
+Deus Ex: Game of the Year Edition
 https://store.steampowered.com/app/6910
 - Cass
 - Varia
 
-### Doom: Ultimate
+Doom: Ultimate
 https://store.steampowered.com/app/2280
 - Cass
 - Pizza
 - Cathy
 
-### Doom II: Hell on Earth
+Doom II: Hell on Earth
 https://store.steampowered.com/app/2300
 - Cass
 - Cathy
 - Pizza
 - Varia
 
-### Dungeons and Dragons 5e
+Dungeons and Dragons 5e
 Tabletop RPG
 - Cass
 -Cathy
 - numbers
 
-### Dungeon Souls
+Dungeon Souls
 https://store.steampowered.com/app/383230
 - alph
 - Cass
 
-### Dusk
+Dusk
 https://store.steampowered.com/app/519860
 - Cass
 - Cathy
 - Pizza Squeeze
 - Varia
 
-### Elden Ring
+Elden Ring
 https://store.steampowered.com/app/1245620
 - Robin
 - Luz
 - Cathy
 - Varia
 
-### Factorio
+Factorio
 https://store.steampowered.com/app/427520
 - Robin
 - alph?
 - Varia
 
-### Guilty Gear -Strive-
+Guilty Gear -Strive-
 https://store.steampowered.com/app/850980
 - a
 - alph
 - Cathy
 - Varia
 
-### Half-Life
+Half-Life
 https://store.steampowered.com/app/70
 - Cass
 - Cathy
@@ -99,21 +102,21 @@ https://store.steampowered.com/app/70
 - Robin
 - Varia
 
-### Half-Life 2: Deathmatch
+Half-Life 2: Deathmatch
 https://store.steampowered.com/app/320
 - Cass
 - Cathy
 - Pizza
 - Varia
 
-### Half-Life Deathmatch: Source
+Half-Life Deathmatch: Source
 https://store.steampowered.com/app/360
 - Cass
 - Cathy
 - Varia
 - Pizza
 
-### Left 4 Dead 2
+Left 4 Dead 2
 https://steamcommunity.com/app/550
 - alph
 - Cathy
@@ -122,7 +125,7 @@ https://steamcommunity.com/app/550
 - Robin
 - Varia
 
-### Minecraft
+Minecraft
 https://www.minecraft.net/en-us
 - a
 - alph
@@ -134,7 +137,7 @@ https://www.minecraft.net/en-us
 - Robin
 - Varia
 
-### NERTS!
+NERTS!
 https://store.steampowered.com/app/1131190
 - a
 - alph
@@ -142,7 +145,7 @@ https://store.steampowered.com/app/1131190
 - Varia
 - Pizza
 
-### Portal 2
+Portal 2
 https://store.steampowered.com/app/620
 - a
 - alph
@@ -154,19 +157,19 @@ https://store.steampowered.com/app/620
 - Robin
 - Varia
 
-### Quake
+Quake
 https://store.steampowered.com/app/2310
 - Cass
 - Noëlle
 - Pizza
 - Varia
 
-### Satisfactory
+Satisfactory
 https://store.steampowered.com/app/526870
 - Cathy
 - Varia
 
-### Splitgate
+Splitgate
 https://store.steampowered.com/app/677620
 - alph
 - Cass
@@ -175,14 +178,14 @@ https://store.steampowered.com/app/677620
 - Robin
 - Varia
 
-### Tabletop Simulator
+Tabletop Simulator
 https://store.steampowered.com/app/286160
 - alph
 - numbers
 - Varia
 - Cathy
 
-### Team Fortress 2
+Team Fortress 2
 https://store.steampowered.com/app/440
 - a
 - alph
@@ -192,24 +195,23 @@ https://store.steampowered.com/app/440
 - Robin
 - Varia
 
-### Wargroove
+Wargroove
 https://store.steampowered.com/app/607050
 - alph
 - Cathy
 - Varia
 
 
-### STEAM PROFILES
-- a - https://steamcommunity.com/id/triggerofsol
-- alph - https://steamcommunity.com/id/bakabinch
-- Cass - https://steamcommunity.com/id/DynTylluan
-- Pizza - https://steamcommunity.com/id/pizzasqueeze/
-- Robin - https://steamcommunity.com/id/lordofdorkness89
-- Varia - https://steamcommunity.com/id/variamelich
-- numbers - https://steamcommunity.com/id/noombers
+STEAM PROFILES
+a - https://steamcommunity.com/id/triggerofsol
+alph - https://steamcommunity.com/id/bakabinch
+Cass - https://steamcommunity.com/id/DynTylluan
+Pizza - https://steamcommunity.com/id/pizzasqueeze/
+Robin - https://steamcommunity.com/id/lordofdorkness89
+Varia - https://steamcommunity.com/id/variamelich
+numbers - https://steamcommunity.com/id/noombers
 
 
-```
 {O,O}   {O,O}
 /)_)    (__(\
  ""      " "
